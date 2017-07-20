@@ -1,0 +1,8 @@
+To Set Up React.js in Local Environment
+(otherwise simply checkout all the node_modules from my repository and run the server after installing Node it will works only thing 
+need to changed in Webpack.config.js entry and path)
+1. Install Node
+2. Install Babel(which will creates the virtual dom and all the UI hanges handled here)
+3. Install Webpack(Here to need configure the local host and App.jsx )
+4. Install React.js
+5. Finally Run server
